@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/countdown-to-new-year/static/css/main.194c34a8.chunk.css",
+    "main.js": "/countdown-to-new-year/static/js/main.6bedc350.chunk.js",
+    "main.js.map": "/countdown-to-new-year/static/js/main.6bedc350.chunk.js.map",
+    "runtime-main.js": "/countdown-to-new-year/static/js/runtime-main.6149b31a.js",
+    "runtime-main.js.map": "/countdown-to-new-year/static/js/runtime-main.6149b31a.js.map",
+    "static/js/2.519d66b1.chunk.js": "/countdown-to-new-year/static/js/2.519d66b1.chunk.js",
+    "static/js/2.519d66b1.chunk.js.map": "/countdown-to-new-year/static/js/2.519d66b1.chunk.js.map",
+    "index.html": "/countdown-to-new-year/index.html",
+    "static/css/main.194c34a8.chunk.css.map": "/countdown-to-new-year/static/css/main.194c34a8.chunk.css.map",
+    "static/js/2.519d66b1.chunk.js.LICENSE.txt": "/countdown-to-new-year/static/js/2.519d66b1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6149b31a.js",
+    "static/js/2.519d66b1.chunk.js",
+    "static/css/main.194c34a8.chunk.css",
+    "static/js/main.6bedc350.chunk.js"
+  ]
+}
